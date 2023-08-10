@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/posterior-uveitis-chorioretinitis---primary.py
+inputModule3:
+  class: File
+  path: python/syphilitic-posterior-uveitis---primary.py
+inputModule4:
+  class: File
+  path: python/posterior-uveitis---primary.py
+inputModule5:
+  class: File
+  path: python/posterior-uveitis-panuveitis---primary.py
+inputModule6:
+  class: File
+  path: python/posterior-uveitis-choroiditis---primary.py
+inputModule7:
+  class: File
+  path: python/posterior-uveitis-unspecified---primary.py
+inputModule8:
+  class: File
+  path: python/juxtapapillary-posterior-uveitis---primary.py
+inputModule9:
+  class: File
+  path: python/other-posterior-uveitis---primary.py
+inputModule10:
+  class: File
+  path: python/peripheral-posterior-uveitis---primary.py
+inputModule11:
+  class: File
+  path: python/posterior-uveitis-disseminated---primary.py
+inputModule12:
+  class: File
+  path: python/posterior-uveitis-harada's---primary.py
+inputModule13:
+  class: File
+  path: python/posterior-uveitis-vogtkoyanagi---primary.py
+inputModule14:
+  class: File
+  path: python/posterior-uveitis-inflammation---secondary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
